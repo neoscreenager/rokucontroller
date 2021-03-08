@@ -1,0 +1,10 @@
+Metadata-Version: 2.1
+Briefcase-Version: 0.3.3
+Name: rokucontroller
+Formal-Name: rokucontroller
+App-ID: com.neoscreenager.rokucontroller
+Version: 0.0.1
+Home-page: https://neoscreenager.com/rokucontroller
+Author: Abhishek Mathur
+Author-email: neoscreenager@gmail.com
+Summary: Roku TV Controller Using Roku Remote API
